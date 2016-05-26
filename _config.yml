@@ -1,10 +1,10 @@
 # Site settings
-title:       BrettBlog
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       BBlog
+email:       giantmolecules@gmail.com
+author:      Brett Balogh
+description: "My Research Blog"
+baseurl:     "http://giantmolecules.github.io/"
+url:         "http://giantmolecules.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
