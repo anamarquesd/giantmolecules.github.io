@@ -3,8 +3,8 @@ title:       BBlog
 email:       giantmolecules@gmail.com
 author:      Brett Balogh
 description: "My Research Blog"
-baseurl:     "http://giantmolecules.github.io/"
-url:         "http://giantmolecules.github.io/"
+baseurl:     "http://giantmolecules.github.io"
+url:         "http://giantmolecules.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
