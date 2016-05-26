@@ -1,3 +1,3 @@
 # Here's an image
 
-![](giantmolecules.github.io/images/MITcnc1.jpg)
+![](images/MITcnc1.jpg)
